@@ -16,12 +16,13 @@ User  →  Streamlit App (UI)  →  Secure Backend API  →  AI Model
 🔒 The trained models and backend logic are stored in a private repository for security and intellectual property protection.
 
 ## 🛠️ Technologies Used
-Component	Technology
-Frontend	Streamlit
-Backend	FastAPI (private)
-Model	Custom fine-tuned model (private)
-Language	Python
-Hosting	Streamlit Cloud
+| Component | Technology                        |
+| --------- | --------------------------------- |
+| Frontend  | Streamlit                         |
+| Backend   | FastAPI (private)                 |
+| Model     | Custom fine-tuned model (private) |
+| Language  | Python                            |
+| Hosting   | Streamlit Cloud                   |
 
 ## 🚀 Live Demo
 - 👉 Try the app here: https://math-score-prediction-ngkn3u3ymbtgktsjvb549t.streamlit.app/
@@ -34,8 +35,8 @@ Hosting	Streamlit Cloud
 
 ## 📩 Contact
 If you’d like to learn more about the backend implementation, trained models, or research behind the project, feel free to reach out:
-- 📧 Email: your email
-- 🌍 Portfolio / LinkedIn: your profile (optional)
+- 📧 Email: phamminhhieu0817@gmail.com
+- 🌍 Portfolio / LinkedIn: [your profile (optional)](https://www.linkedin.com/in/hi%E1%BA%BFu-ph%E1%BA%A1m-55a968385/)
 
 ## 🔍 Purpose
 This project is part of my university application portfolio, demonstrating skills in:
