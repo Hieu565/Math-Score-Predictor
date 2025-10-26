@@ -36,7 +36,7 @@ User  →  Streamlit App (UI)  →  Secure Backend API  →  AI Model
 ## 📩 Contact
 If you’d like to learn more about the backend implementation, trained models, or research behind the project, feel free to reach out:
 - 📧 Email: phamminhhieu0817@gmail.com
-- 🌍 Portfolio / LinkedIn: [your profile (optional)](https://www.linkedin.com/in/hi%E1%BA%BFu-ph%E1%BA%A1m-55a968385/)
+- 🌍 Portfolio / LinkedIn: (https://www.linkedin.com/in/hi%E1%BA%BFu-ph%E1%BA%A1m-55a968385/)
 
 ## 🔍 Purpose
 This project is part of my university application portfolio, demonstrating skills in:
