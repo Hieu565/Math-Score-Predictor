@@ -76,6 +76,9 @@ Evaluate how accurately the regression model can predict a student’s Math scor
 + Cross-validation: 5-fold CV
 This ensures the model generalizes well to unseen data.
 
+📊 Detailed results are available here:  
+👉 [Model Evaluation Report]([model-evaluation/README.md](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Model%20Performance%20Report%20README.md))
+
 📊 Evaluation Metrics
 We use multiple metrics for a reliable assessment:
 | Metric                             | Purpose                                  | Result         |
