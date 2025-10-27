@@ -57,6 +57,7 @@ Questions:
 ## 🧩 Architecture
 
 This repository contains only the frontend Streamlit application.
+
 User  →  Streamlit App (UI)  →  Secure Backend API  →  AI Model
 
 🔒 The trained models and backend logic are stored in a private repository for security and intellectual property protection.
