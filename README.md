@@ -41,7 +41,13 @@ Questions:
  
 ## 📊 Data Types
 
-- Number of response: 152 students
+✅ Data & Ethics Disclosure
+
+✔ 152 student responses were collected voluntarily
+✔ Personal identifiers were not collected
+✔ All data was fully anonymized before use
+✔ Used only for educational and research purposes
+
 - Data source is in this link: (https://docs.google.com/spreadsheets/d/1i4An58zvSKWTDBqse78q5-pfQzc4uD9x-RS5I4sd6zk/edit?gid=0#gid=0)](https://docs.google.com/spreadsheets/d/13f0_u9eZR8m7Ro36jfQCs35fGCWubqjwil3Jdfbkwao/edit?usp=sharing)
   
 - 🔢 **Quantitative Data**
