@@ -8,9 +8,7 @@ This report compares six predictive models — **Random Forest (CPU & GPU), Deci
 - **RMSE (Root Mean Square Error)**: Measures the magnitude of prediction errors.
 Both **average, standard deviation**, and **extreme (min/max) results** were analyzed to evaluate not only performance but also **model stability**.
 
-- **Google Colab Link**: [[[Open in Colab](https://colab.research.google.com/drive/1kiy3xlwGESkbauCGqKnKfT0ZrVDcKzBq#scrollTo=8pnzuKkO87oc)](https://colab.research.google.com/drive/16JZdl_nzNdl6_zma7-xrjDu9-pKF3VJO?usp=sharing)](https://colab.research.google.com/drive/16JZdl_nzNdl6_zma7-xrjDu9-pKF3VJO?usp=sharing)
-
-For details about the main project, please refer to the main README.md
+For details about the main project, please refer to the [main README.md](https://github.com/Hieu565/Math-Score-Predictor/blob/main/README.md)
 
 ## 🔍 R² Analysis
 From the R² Results Across Models:
