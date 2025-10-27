@@ -42,13 +42,13 @@ Questions:
 
 | Feature                       | Type                                | Description |
 |------------------------------|-------------------------------------|-------------|
-| Math Score (Target Variable) | Numeric (0–10 or 0–20 scale)        | Final math score used for prediction |
-| Self-study Hours             | Numeric (hours/day)                 | Daily reported independent study time |
-| Homework Completion          | Categorical (0–100%)                | Predicts consistency and responsibility in learning |
-| Focus Level in Class         | Categorical (0–100%)                | Indicates attention and engagement during lessons |
-| Study Routine Frequency      | Categorical (weekly, daily, before test) | Measures discipline and long-term learning habits |
-| Preferred Learning Methods   | Multi-select Categorical            | Shows how students approach new content (e.g., videos, group work, notes) |
-| Methods for Difficult Tasks  | Multi-select Categorical            | Strategies used when facing challenging material (e.g., ask teacher, online search, peer help) |
+| MathScore                    | Numeric (0–10 scale)        | Final math score used for prediction |
+| StudyHours                   | Numeric (hours/day)                 | Daily reported independent study time |
+| HomeworkCompletion          | Categorical (0–100%)                | Predicts consistency and responsibility in learning |
+| AttentionLevel     | Categorical (0–100%)                | Indicates attention and engagement during lessons |
+| StudyRountines      | Categorical (weekly, daily, before test) | Measures discipline and long-term learning habits |
+| LearningMethods   | Multi-select Categorical            | Shows how students approach new content (e.g., videos, group work, notes) |
+| HandleDiffcultMethod  | Multi-select Categorical            | Strategies used when facing challenging material (e.g., ask teacher, online search, peer help) |
 
 ✅ Data & Ethics Disclosure
 - 152 student responses were collected voluntarily
@@ -56,7 +56,7 @@ Questions:
 - All data was fully anonymized before use
 - Used only for educational and research purposes
 
-- Data source is in this link: [Google Sheets](https://docs.google.com/spreadsheets/d/1i4An58zvSKWTDBqse78q5-pfQzc4uD9x-RS5I4sd6zk/edit?usp=sharing)
+- Data source is in this link: [Google Sheets](https://docs.google.com/spreadsheets/d/13f0_u9eZR8m7Ro36jfQCs35fGCWubqjwil3Jdfbkwao/edit?usp=sharing)
 
 ## 🧩 Architecture
 
