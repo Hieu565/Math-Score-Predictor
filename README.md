@@ -58,6 +58,21 @@ User  →  Streamlit App (UI)  →  Secure Backend API  →  AI Model
 
 🔒 The trained models and backend logic are stored in a private repository for security and intellectual property protection.
 
+## 📈 Model Evaluation
+Evaluate how accurately the regression model can predict a student’s Math score based on behavior and study habit features.
+✅ Train–Test Split
++ Training set: 80%
++ Testing set: 20%
++ Cross-validation: 5-fold CV
+This ensures the model generalizes well to unseen data.
+
+📊 Evaluation Metrics
+We use multiple metrics for a reliable assessment:
+| Metric                             | Purpose                                  | Result         |
+| ---------------------------------- | ---------------------------------------- | -------------- |
+| **R² Score**                       | Measures variance explained by the model |      0.26      |
+| **RMSE** (Root Mean Squared Error) | Penalizes larger errors                  |      1.28      |
+
 ## 🛠️ Technologies Used
 | Component | Technology                        |
 | --------- | --------------------------------- |
