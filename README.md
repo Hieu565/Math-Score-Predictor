@@ -47,7 +47,7 @@ Questions:
 - All data was fully anonymized before use
 - Used only for educational and research purposes
 
-- Data source is in this link: https://docs.google.com/spreadsheets/d/1i4An58zvSKWTDBqse78q5-pfQzc4uD9x-RS5I4sd6zk/edit?usp=sharing
+- Data source is in this link: [Google Sheets](https://docs.google.com/spreadsheets/d/1i4An58zvSKWTDBqse78q5-pfQzc4uD9x-RS5I4sd6zk/edit?usp=sharing)
   
 - 🔢 **Quantitative Data**
   + Math scores in August
@@ -112,7 +112,7 @@ This analysis supports educational insights — focusing and consistent practice
 | Hosting   | Streamlit Cloud                   |
 
 ## 🚀 Demo
-- 👉 Try the app here: https://math-score-prediction-ngkn3u3ymbtgktsjvb549t.streamlit.app/
+- 👉 Try the app here: [Math Score Predictor App](https://math-score-prediction-ngkn3u3ymbtgktsjvb549t.streamlit.app/)
 
 ## 📌 Limitations
 - Data is self-reported, which may introduce bias.
