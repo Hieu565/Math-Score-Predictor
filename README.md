@@ -1,5 +1,5 @@
 # Math-Score-Predictor
-This project is an AI-powered learning assistant designed to help students analyze information, summarize content, and generate study support in real time. Built using Streamlit for the frontend interface, the app connects to a secure backend service that performs advanced model inference.
+This project is an AI-powered learning assistant designed to help students analyze information, and generate study support in real time. Built using Streamlit for the frontend interface, the app connects to a secure backend service that performs advanced model inference.
 
 ## ✅ Why This Project Matters
 This project demonstrates my ability to build a complete machine learning system — from data collection and feature engineering to model evaluation, deployment, and user experience design.
