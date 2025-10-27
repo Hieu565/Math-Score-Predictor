@@ -80,6 +80,13 @@ User  →  Streamlit App (UI)  →  Secure Backend API  →  AI Model
 - More adaptive response generation
 - Voice input/output features
 
+## 🤝 Contributing
+- Fork the repo and submit pull requests.
+- Share ideas for better features and models.
+
+## 📜 License
+MIT License. Free to use and modify.
+
 ## 📩 Contact
 If you’d like to learn more about the backend implementation, trained models, or research behind the project, feel free to reach out:
 - 📧 Email: phamminhhieu0817@gmail.com or hieu.m032108@gmail.com
