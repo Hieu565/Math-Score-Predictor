@@ -123,10 +123,11 @@ This analysis supports educational insights — focusing and consistent practice
 - More features (sleep, tutoring, resources used) could improve accuracy.
 
 ## 📚 Future Improvements
+- Improve tolerance to around 65%
+- Adding other features such as sleep hours, teaching quality to improve the model
 - User authentication
 - Learning analytics dashboard
 - More adaptive response generation
-- Voice input/output features
 
 ## 🤝 Contributing
 - Fork the repo and submit pull requests.
