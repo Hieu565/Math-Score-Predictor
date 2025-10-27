@@ -90,15 +90,9 @@ We use multiple metrics for a reliable assessment:
 🔍 Feature Importance
 
 The model found these features to be the most influential on predicted results:
-
-Past Math Scores
-
-Daily Self-Study Hours
-
-Homework Completion Rate
-
-Focus During Lessons
-
+- Attention Level during lessons
+- Daily self-study hours
+- Homework completion rate
 This analysis supports educational insights — focusing and consistent practice strongly correlate with improved performance.
 
 📉 Error Distribution
