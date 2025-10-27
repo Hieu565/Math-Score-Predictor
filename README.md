@@ -93,11 +93,13 @@ The model found these features to be the most influential on predicted results:
 - Attention Level during lessons
 - Daily self-study hours
 - Homework completion rate
+
 This analysis supports educational insights — focusing and consistent practice strongly correlate with improved performance.
 
 📉 Error Distribution
 
 Most prediction errors fall within ±1 points of the real score.
+
 This means predictions are directionally reliable but not a replacement for formal assessment.
 
 The system is designed as a learning improvement tool, not a grading authority.
