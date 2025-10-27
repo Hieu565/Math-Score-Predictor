@@ -85,6 +85,7 @@ We use multiple metrics for a reliable assessment:
 | ---------------------------------- | ---------------------------------------- | -------------- |
 | **R² Score**                       | Measures variance explained by the model |      0.26      |
 | **RMSE** (Root Mean Squared Error) | Penalizes larger errors                  |      1.28      |
+| **Tolerance** (±1 point accuracy)  | Practical correctness within acceptable score deviation | 51.61% |
 
 🔍 Feature Importance
 
@@ -98,8 +99,11 @@ This analysis supports educational insights — focusing and consistent practice
 📉 Error Distribution
 
 - Most prediction errors fall within ±1 points of the real score.
+- The model achieves 51% accuracy within ±1 point on a 0–10 scale, which means more than half of the predictions are close to the actual scores.
+- Given the dataset’s size and self-reported nature, this serves as a reasonable baseline for educational prediction tasks.
 - This means predictions are directionally reliable but not a replacement for formal assessment.
 - The system is designed as a learning improvement tool, not a grading authority.
+- Future improvements aim to raise this tolerance above 65% by expanding the dataset and including additional study-related variables.
 
 ## 🛠️ Technologies Used
 | Component | Technology                        |
