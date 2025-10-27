@@ -19,7 +19,7 @@ This project is part of my university application portfolio, demonstrating skill
 
 ## ✨ Key Features
 - Score prediction system (Main ML)
-- Learning Assitant Tool (Extra)
+- Learning Assistant Tool (Extra)
 - Interactive AI Chat for question answering
 - Automatic content summarization (text and media)
 - Fast and intuitive user interface
@@ -46,9 +46,9 @@ Questions:
 | StudyHours                   | Numeric (hours/day)                 | Daily reported independent study time |
 | HomeworkCompletion          | Categorical (0–100%)                | Predicts consistency and responsibility in learning |
 | AttentionLevel     | Categorical (0–100%)                | Indicates attention and engagement during lessons |
-| StudyRountines      | Categorical (weekly, daily, before test) | Measures discipline and long-term learning habits |
+| StudyRoutines      | Categorical (weekly, daily, before test) | Measures discipline and long-term learning habits |
 | LearningMethods   | Multi-select Categorical            | Shows how students approach new content (e.g., videos, group work, notes) |
-| HandleDiffcultMethod  | Multi-select Categorical            | Strategies used when facing challenging material (e.g., ask teacher, online search, peer help) |
+| HandleDifficultMethod  | Multi-select Categorical            | Strategies used when facing challenging material (e.g., ask teacher, online search, peer help) |
 
 ✅ Data & Ethics Disclosure
 - 152 student responses were collected voluntarily
@@ -88,7 +88,7 @@ We use multiple metrics for a reliable assessment:
 | **Tolerance** (±1 point accuracy)  | Practical correctness within acceptable score deviation | 51.61% |
 
 - Most prediction errors fall within ±1 points of the real score.
-- R2 scores and RMSE scores are relatively low, which shows there may have randomness within the trained model
+- R² and RMSE indicate that the model still struggles with generalization, likely due to the limited dataset and self-reported variability.
 - The model achieves 51% accuracy within ±1 point on a 0–10 scale, which means more than half of the predictions are close to the actual scores.
 
 Given the dataset’s size and self-reported nature, this serves as a reasonable baseline for educational prediction tasks. This means predictions are directionally reliable but not a replacement for formal assessment.
@@ -125,7 +125,7 @@ This analysis supports educational insights — focusing and consistent practice
 - More features (sleep, tutoring, resources used) could improve accuracy.
 
 ## 📚 Future Improvements
-- Improve tolerance to around 65%
+- Improve tolerance to above 65%
 - Adding other features such as sleep hours, teaching quality to improve the model
 - User authentication
 - Learning analytics dashboard
