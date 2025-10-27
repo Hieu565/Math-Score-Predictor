@@ -17,7 +17,6 @@ This project is part of my university application portfolio, demonstrating skill
 ## ✨ Key Features
 - ✅ Interactive AI Chat for question answering
 - ✅ Automatic content summarization (text and media)
-- ✅ Mind map style learning support
 - ✅ Fast and intuitive user interface
 - ✅ Accessible from any device via browser
 
