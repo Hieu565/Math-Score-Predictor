@@ -15,6 +15,8 @@ This project is part of my university application portfolio, demonstrating skill
 - Generate study improvement suggestions based on the model.
 
 ## ✨ Key Features
+- ✅ Score prediction system (Main ML)
+- ✅ Learning Assitant Tool (Extra)
 - ✅ Interactive AI Chat for question answering
 - ✅ Automatic content summarization (text and media)
 - ✅ Fast and intuitive user interface
