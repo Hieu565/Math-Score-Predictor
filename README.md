@@ -60,6 +60,7 @@ User  →  Streamlit App (UI)  →  Secure Backend API  →  AI Model
 
 ## 📈 Model Evaluation
 Evaluate how accurately the regression model can predict a student’s Math score based on behavior and study habit features.
+
 ✅ Train–Test Split
 + Training set: 80%
 + Testing set: 20%
