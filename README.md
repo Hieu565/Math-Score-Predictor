@@ -80,11 +80,33 @@ This ensures the model generalizes well to unseen data.
 👉 [Model Evaluation Report](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Model%20Performance%20Report%20README.md)
 
 📊 Evaluation Metrics
+
 We use multiple metrics for a reliable assessment:
 | Metric                             | Purpose                                  | Result         |
 | ---------------------------------- | ---------------------------------------- | -------------- |
 | **R² Score**                       | Measures variance explained by the model |      0.26      |
 | **RMSE** (Root Mean Squared Error) | Penalizes larger errors                  |      1.28      |
+
+🔍 Feature Importance
+
+The model found these features to be the most influential on predicted results:
+
+Past Math Scores
+
+Daily Self-Study Hours
+
+Homework Completion Rate
+
+Focus During Lessons
+
+This analysis supports educational insights — focusing and consistent practice strongly correlate with improved performance.
+
+📉 Error Distribution
+
+Most prediction errors fall within ±1 points of the real score.
+This means predictions are directionally reliable but not a replacement for formal assessment.
+
+The system is designed as a learning improvement tool, not a grading authority.
 
 ## 🛠️ Technologies Used
 | Component | Technology                        |
