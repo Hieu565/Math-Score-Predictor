@@ -93,7 +93,7 @@ We use multiple metrics for a reliable assessment:
 | Language  | Python                            |
 | Hosting   | Streamlit Cloud                   |
 
-## 🚀 Live Demo
+## 🚀 Demo
 - 👉 Try the app here: https://math-score-prediction-ngkn3u3ymbtgktsjvb549t.streamlit.app/
 
 ## 📌 Limitations
