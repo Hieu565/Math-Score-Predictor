@@ -26,7 +26,6 @@ This project is part of my university application portfolio, demonstrating skill
 - Accessible from any device via browser
 
 ## 📝 Survey Questions (Data Collection)
-Question form: https://docs.google.com/forms/d/e/1FAIpQLSdhQQZbxIyvydRmxXZXAxtk96xiO3X16f8TzAdr_8Gyw6KPlA/viewform?usp=dialog
 
 Questions:
 - What was your average Math score (Coefficient I) in August?
@@ -43,7 +42,7 @@ Questions:
 
 ✅ Data & Ethics Disclosure
 
--  152 student responses were collected voluntarily
+- 152 student responses were collected voluntarily
 - Personal identifiers were not collected
 - All data was fully anonymized before use
 - Used only for educational and research purposes
