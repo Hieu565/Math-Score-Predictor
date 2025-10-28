@@ -114,7 +114,7 @@ This analysis supports educational insights — focusing and consistent practice
 
 ## 🚀 Live Demo
 - 👉 Try the app here: [Math Score Predictor App](https://math-score-prediction-ngkn3u3ymbtgktsjvb549t.streamlit.app/)
-- 👉 Watch the video demo here: [Math Score Predictor App]
+- 👉 Watch the video demo here: [Math Score Predictor App](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Math%20Score%20Predictor%20App%20Demo.mp4)
 
 ## 📌 Limitations
 - Data is self-reported, which may introduce bias.
