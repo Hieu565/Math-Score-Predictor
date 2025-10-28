@@ -123,6 +123,7 @@ This analysis supports educational insights — focusing and consistent practice
 ## 📚 Future Improvements
 - Improve tolerance to above 65%
 - Adding other features such as sleep hours, teaching quality to improve the model
+- Add chatbot to improve user experience
 - User authentication
 - Learning analytics dashboard
 - More adaptive response generation
