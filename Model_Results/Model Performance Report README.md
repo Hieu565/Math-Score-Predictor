@@ -1,10 +1,10 @@
 # 🧠 Model Performance Report
 This document provides information specific to the test models used in this project.
 
-<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/e410c29a-cae1-453b-8301-e76927a38df1" />
-<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/8f8ea75b-cbdd-4598-86a3-875a4537f1aa" />
-<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/213aef0f-0857-4ded-b031-773b85fa7b82" />
-<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/a78c3517-03c5-41b0-8de1-7a116e88c641" />
+<img width="540" height="360" alt="image" src="https://github.com/user-attachments/assets/e410c29a-cae1-453b-8301-e76927a38df1" />
+<img width="540" height="360" alt="image" src="https://github.com/user-attachments/assets/8f8ea75b-cbdd-4598-86a3-875a4537f1aa" />
+<img width="540" height="360" alt="image" src="https://github.com/user-attachments/assets/213aef0f-0857-4ded-b031-773b85fa7b82" />
+<img width="540" height="360" alt="image" src="https://github.com/user-attachments/assets/a78c3517-03c5-41b0-8de1-7a116e88c641" />
 
 ## 📊 Overview
 
