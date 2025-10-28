@@ -115,8 +115,8 @@ This analysis supports educational insights — focusing and consistent practice
 ## 🚀 Live Demo
 
 - App UI interface:
-<img width="1030" height="856" alt="image" src="https://github.com/user-attachments/assets/82a13107-c85f-456f-bba8-dfb9e342ef18" />
-<img width="970" height="815" alt="image" src="https://github.com/user-attachments/assets/35cbb1bf-163c-41d5-9cff-4bef898b873e" />
+<img width="515" height="428" alt="image" src="https://github.com/user-attachments/assets/82a13107-c85f-456f-bba8-dfb9e342ef18" />
+<img width="485" height="407.5" alt="image" src="https://github.com/user-attachments/assets/35cbb1bf-163c-41d5-9cff-4bef898b873e" />
 
 - 👉 Try the app here: [Math Score Predictor App](https://math-score-prediction-ngkn3u3ymbtgktsjvb549t.streamlit.app/)
 - 👉 Download the video demo here: [Math Score Predictor App](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Math%20Score%20Predictor%20App%20Demo.mp4)
