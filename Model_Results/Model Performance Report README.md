@@ -15,6 +15,8 @@ Both **average, standard deviation**, and **extreme (min/max) results** were ana
 
 For details about the main project, please refer to the [main README.md](https://github.com/Hieu565/Math-Score-Predictor/blob/main/README.md)
 
+If you want to have better observation for the model results, please refer to [Average R2 Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Average%20R2%20Results.PNG) ; [Average RMSE Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Average%20RMSE%20Results.PNG) ; [Extreme R2 Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Extreme%20R2%20Results.PNG) ; [Extreme RMSE Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Extreme%20RMSE%20Results.PNG)
+
 ## 🔍 R² Analysis
 From the R² Results Across Models:
 - **Random Forest (CPU)** achieved an average R² of **0.137**, which was not the highest but showed **low variability (StdDev = 0.196)**, reflecting consistent predictive performance.
