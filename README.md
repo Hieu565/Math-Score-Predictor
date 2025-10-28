@@ -17,12 +17,10 @@ This project is part of my university application portfolio, designed to:
 - Generate study improvement suggestions based on the model.
 
 ## ✨ Key Features
-- Score prediction system (Main ML)
-- Learning Assistant Tool (Extra)
-- Interactive AI Chat for question answering
-- Automatic content summarization (text and media)
-- Fast and intuitive user interface
-- Accessible from any device via browser
+- 🎯 Score Prediction System (main ML component)
+- 🧠 Learning Assistant Tool (interactive AI support)
+- 📄 Automatic content summarization (text & media)
+- ⚡ Fast and intuitive UI, accessible on any device
 
 ## 📝 Survey Questions (Data Collection)
 
@@ -34,8 +32,7 @@ Questions:
   + (Focus = not using your phone, not sleeping, taking full notes)
 - What methods do you prefer to use to learn maths?
 - What methods do you use to solve difficult maths questions?
-- Do you keep a study routine for self-studying maths?
-- Do you often review before tests?
+- Do you keep a daily, weekly study routine or just review before test?
  
 ## 📊 Data Types
 
