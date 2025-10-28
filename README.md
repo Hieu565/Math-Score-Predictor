@@ -5,11 +5,10 @@ This project is an AI-powered learning assistant designed to help students analy
 This project demonstrates my ability to build a complete machine learning system — from data collection and feature engineering to model evaluation, deployment, and user experience design.
 
 ## 🔍 Purpose
-This project is part of my university application portfolio, demonstrating skills in:
-- Machine Learning
-- Software Engineering
-- Human-computer interaction
-- Cloud Application Deployment
+This project is part of my university application portfolio, designed to:
+- Demonstrate skills in **Machine Learning**, **Software Engineering**, and **Human-Computer Interaction**.
+- Explore and satisfy **curiosity** about the relationship between study habits and math performance.
+- Show practical understanding of **Cloud Application Deployment** and data-driven insight generation.
 
 ## 🚀 Project Goals
 - Collect student data through a survey (hours studied, homework completion, focus level, past scores).
