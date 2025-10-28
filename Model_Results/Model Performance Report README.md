@@ -4,10 +4,10 @@ This document provides information specific to the test models used in this proj
 For details about the main project, please refer to the [main README.md](https://github.com/Hieu565/Math-Score-Predictor/blob/main/README.md)
 
 If you want to have better observation for the model results, please refer to:
-- [Average R2 Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Average%20R2%20Results.PNG)
-- [Average RMSE Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Average%20RMSE%20Results.PNG)
-- [Extreme R2 Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Extreme%20R2%20Results.PNG)
-- [Extreme RMSE Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Extreme%20RMSE%20Results.PNG)
+- [Average R2 Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Average%20R2%20Results.PNG) for detailed chart of average R2 results across models
+- [Average RMSE Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Average%20RMSE%20Results.PNG) for detailed chart of average RMSE results across models
+- [Extreme R2 Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Extreme%20R2%20Results.PNG) for detailed chart of extreme R2 results across models
+- [Extreme RMSE Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Extreme%20RMSE%20Results.PNG) for detailed chart of extreme RMSE results across models
 
 <img width="480" height="320" alt="image" src="https://github.com/user-attachments/assets/e410c29a-cae1-453b-8301-e76927a38df1" />
 <img width="480" height="320" alt="image" src="https://github.com/user-attachments/assets/8f8ea75b-cbdd-4598-86a3-875a4537f1aa" />
