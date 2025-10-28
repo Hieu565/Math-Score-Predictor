@@ -1,6 +1,10 @@
 # 🧠 Model Performance Report
 This document provides information specific to the test models used in this project.
 
+For details about the main project, please refer to the [main README.md](https://github.com/Hieu565/Math-Score-Predictor/blob/main/README.md)
+
+If you want to have better observation for the model results, please refer to [Average R2 Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Average%20R2%20Results.PNG) ; [Average RMSE Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Average%20RMSE%20Results.PNG) ; [Extreme R2 Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Extreme%20R2%20Results.PNG) ; [Extreme RMSE Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Extreme%20RMSE%20Results.PNG)
+
 <img width="480" height="320" alt="image" src="https://github.com/user-attachments/assets/e410c29a-cae1-453b-8301-e76927a38df1" />
 <img width="480" height="320" alt="image" src="https://github.com/user-attachments/assets/8f8ea75b-cbdd-4598-86a3-875a4537f1aa" />
 <img width="480" height="320" alt="image" src="https://github.com/user-attachments/assets/213aef0f-0857-4ded-b031-773b85fa7b82" />
@@ -12,10 +16,6 @@ This report compares six predictive models — **Random Forest (CPU & GPU), Deci
 - **R² (Coefficient of Determination)**: Measures predictive accuracy.
 - **RMSE (Root Mean Square Error)**: Measures the magnitude of prediction errors.
 Both **average, standard deviation**, and **extreme (min/max) results** were analyzed to evaluate not only performance but also **model stability**.
-
-For details about the main project, please refer to the [main README.md](https://github.com/Hieu565/Math-Score-Predictor/blob/main/README.md)
-
-If you want to have better observation for the model results, please refer to [Average R2 Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Average%20R2%20Results.PNG) ; [Average RMSE Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Average%20RMSE%20Results.PNG) ; [Extreme R2 Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Extreme%20R2%20Results.PNG) ; [Extreme RMSE Results](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Model_Results/Extreme%20RMSE%20Results.PNG)
 
 ## 🔍 R² Analysis
 From the R² Results Across Models:
