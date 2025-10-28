@@ -119,7 +119,7 @@ This analysis supports educational insights — focusing and consistent practice
 <img width="485" height="407.5" alt="image" src="https://github.com/user-attachments/assets/35cbb1bf-163c-41d5-9cff-4bef898b873e" />
 
 - 👉 Try the app here: [Math Score Predictor App](https://math-score-prediction-ngkn3u3ymbtgktsjvb549t.streamlit.app/)
-- 👉 Or download the video demo here: [Math Score Predictor App](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Math%20Score%20Predictor%20App%20Demo.mp4)
+- 👉 Or download the video demo here: [Math Score Predictor App](https://github.com/user-attachments/assets/b2f03bcf-2b91-418b-ba73-0638a94fc0bd)
 
 ## 📌 Limitations
 - Data is self-reported, which may introduce bias.
