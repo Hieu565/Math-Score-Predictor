@@ -112,8 +112,9 @@ This analysis supports educational insights — focusing and consistent practice
 | Language  | Python                            |
 | Hosting   | Streamlit Cloud                   |
 
-## 🚀 Demo
+## 🚀 Live Demo
 - 👉 Try the app here: [Math Score Predictor App](https://math-score-prediction-ngkn3u3ymbtgktsjvb549t.streamlit.app/)
+- 👉 Watch the video demo here: [Math Score Predictor App]
 
 ## 📌 Limitations
 - Data is self-reported, which may introduce bias.
