@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/6c427018-6ec5-4cee-9ea7-68e7bb6d0e8b
 # Math-Score-Predictor
 This project is an AI-powered learning assistant designed to help students analyze information, and generate study support in real time. Built using Streamlit for the frontend interface, the app connects to a secure backend service that performs advanced model inference.
 
