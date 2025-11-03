@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/6c427018-6ec5-4cee-9ea7-68e7bb6d0e8b
 # Math-Score-Predictor
 This project is an AI-powered learning assistant designed to help students analyze information, and generate study support in real time. Built using Streamlit for the frontend interface, the app connects to a secure backend service that performs advanced model inference.
 
@@ -119,7 +121,7 @@ This analysis supports educational insights — focusing and consistent practice
 <img width="485" height="407.5" alt="image" src="https://github.com/user-attachments/assets/35cbb1bf-163c-41d5-9cff-4bef898b873e" />
 
 - 👉 Try the app here: [Math Score Predictor App](https://math-score-prediction-ngkn3u3ymbtgktsjvb549t.streamlit.app/)
-- 👉 Or watch the video demo here: [Math Score Predictor App](https://github.com/user-attachments/assets/b2f03bcf-2b91-418b-ba73-0638a94fc0bd)
+- 👉 Or watch the video demo here: [Math Score Predictor App](Uploading Math Score Predictor App Demo.mp4…)
 - 👉 Or download the video demo here: [Math Score Predictor App](https://github.com/Hieu565/Math-Score-Predictor/blob/main/Math%20Score%20Predictor%20App%20Demo.mp4)
 
 ## 📌 Limitations
