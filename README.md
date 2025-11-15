@@ -11,10 +11,10 @@ This project is part of my university application portfolio, designed to:
 - Show practical understanding of **Cloud Application Deployment** and data-driven insight generation.
 
 ## 🚀 Project Goals
-- Collect student data through a survey (hours studied, homework completion, focus level, past scores).
-- Clean and process the dataset for machine learning.
-- Build a predictive model (using regression) to estimate scores.
-- Generate study improvement suggestions based on the model.
+- **Collect student data** through a survey (hours studied, homework completion, focus level, past scores).
+- *8Clean and process the dataset** for machine learning.
+- **Build a predictive model** (using regression) to estimate scores.
+- **Generate study improvement suggestions** based on the model.
 
 ## ✨ Key Features
 - 🎯 Score Prediction System (main ML component)
@@ -23,8 +23,9 @@ This project is part of my university application portfolio, designed to:
 - ⚡ Fast and intuitive UI, accessible on any device
 
 ## 📝 Survey Questions (Data Collection)
+Survey link (in Vietnamese): [Survey Form](https://docs.google.com/forms/d/e/1FAIpQLSdhQQZbxIyvydRmxXZXAxtk96xiO3X16f8TzAdr_8Gyw6KPlA/viewform?usp=sharing&ouid=101967053822445628181)
 
-Questions:
+Questions (translated in English):
 - What was your average Math score (Coefficient I) in August?
 - On average, how many hours per day do you spend self-studying Math at home?
 - On average, what percentage of assigned Math homework do you complete?
@@ -36,15 +37,15 @@ Questions:
  
 ## 📊 Data Types
 
-| Feature                       | Type                                | Description |
-|------------------------------|-------------------------------------|-------------|
-| MathScore                    | Numeric (0–10 scale)        | Final math score used for prediction |
-| StudyHours                   | Numeric (hours/day)                 | Daily reported independent study time |
-| HomeworkCompletion          | Categorical (0–100%)                | Predicts consistency and responsibility in learning |
-| AttentionLevel     | Categorical (0–100%)                | Indicates attention and engagement during lessons |
-| StudyRoutines      | Categorical (weekly, daily, before test) | Measures discipline and long-term learning habits |
-| LearningMethods   | Multi-select Categorical            | Shows how students approach new content (e.g., videos, group work, notes) |
-| HandleDifficultMethod  | Multi-select Categorical            | Strategies used when facing challenging material (e.g., ask teacher, online search, peer help) |
+| Feature                      | Type                                     | Description |
+|------------------------------|------------------------------------------|-------------|
+| MathScore                    | Numeric (0–10 scale)                     | Final math score used for prediction |
+| StudyHours                   | Numeric (hours/day)                      | Daily reported independent study time |
+| HomeworkCompletion           | Categorical (0–100%)                     | Predicts consistency and responsibility in learning |
+| AttentionLevel               | Categorical (0–100%)                     | Indicates attention and engagement during lessons |
+| StudyRoutines                | Categorical (weekly, daily, before test) | Measures discipline and long-term learning habits |
+| LearningMethods               | Multi-select Categorical                | Shows how students approach new content (e.g., videos, group work, notes) |
+| HandleDifficultMethod        | Multi-select Categorical                  | Strategies used when facing challenging material (e.g., ask teacher, online search, peer help) |
 
 ✅ Data & Ethics Disclosure
 - 152 student responses were collected voluntarily
