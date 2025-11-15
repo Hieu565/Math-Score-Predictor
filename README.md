@@ -12,7 +12,7 @@ This project is part of my university application portfolio, designed to:
 
 ## 🚀 Project Goals
 - **Collect student data** through a survey (hours studied, homework completion, focus level, past scores).
-- *8Clean and process the dataset** for machine learning.
+- **Clean and process the dataset** for machine learning.
 - **Build a predictive model** (using regression) to estimate scores.
 - **Generate study improvement suggestions** based on the model.
 
@@ -67,9 +67,9 @@ User  →  Streamlit App (UI)  →  Secure Backend API  →  AI Model
 Evaluate how accurately the regression model can predict a student’s Math score based on behavior and study habit features.
 
 ✅ Train–Test Split
-+ Training set: 80%
-+ Testing set: 20%
-+ Cross-validation: 5-fold CV
++ **Training set**: 80%
++ **Testing set**: 20%
++ **Cross-validation**: 5-fold CV
 This ensures the model generalizes well to unseen data.
 
 📊 Detailed results of model choice and performance is here:  
@@ -84,11 +84,11 @@ We use multiple metrics for a reliable assessment:
 | **RMSE** (Root Mean Squared Error) | Penalizes larger errors                  |      1.28      |
 | **Tolerance** (±1 point accuracy)  | Practical correctness within acceptable score deviation | 51.61% |
 
-- Most prediction errors fall within ±1 points of the real score.
+- Most prediction errors fall **within ±1 points** of the real score.
 - R² and RMSE indicate that the model still struggles with generalization, likely due to the limited dataset and self-reported variability.
 - The model achieves 51% accuracy within ±1 point on a 0–10 scale, which means more than half of the predictions are close to the actual scores.
 
-Given the dataset’s size and self-reported nature, this serves as a reasonable baseline for educational prediction tasks. This means predictions are directionally reliable but not a replacement for formal assessment.
+Given the dataset’s size and self-reported nature, this serves as a ***reasonable baseline** for educational prediction tasks. This means predictions are directionally **reliable but not a replacement** for formal assessment.
 
 🔍 Feature Importance
 
