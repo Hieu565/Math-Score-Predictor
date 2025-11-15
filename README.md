@@ -88,7 +88,7 @@ We use multiple metrics for a reliable assessment:
 - R² and RMSE indicate that the model still struggles with generalization, likely due to the limited dataset and self-reported variability.
 - The model achieves 51% accuracy within ±1 point on a 0–10 scale, which means more than half of the predictions are close to the actual scores.
 
-Given the dataset’s size and self-reported nature, this serves as a ***reasonable baseline** for educational prediction tasks. This means predictions are directionally **reliable but not a replacement** for formal assessment.
+Given the dataset’s size and self-reported nature, this serves as a **reasonable baseline** for educational prediction tasks. This means predictions are directionally **reliable but not a replacement** for formal assessment.
 
 🔍 Feature Importance
 
